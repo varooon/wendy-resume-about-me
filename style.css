@@ -53,3 +53,11 @@ img {
 .txt-gray{
     color: #B2BCBF;
   }
+
+  .extra-line-height{
+    line-height: 1.3em;
+  }
+
+  .spaced-list li{
+    margin-top: 10px;
+  }
